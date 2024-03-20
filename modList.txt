@@ -16,19 +16,19 @@ client only:
 
     
     silly QOL:
-        https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge/files/4715660
+        https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge/files/4715660 | 3.0.1
 
     silly:
-        https://www.curseforge.com/minecraft/mc-mods/emoji-type/files/4959267
+        https://www.curseforge.com/minecraft/mc-mods/emoji-type/files/4959267 | 2.2.3+1.20.4
     
     swaggers:
-        https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/4680050
-        https://www.curseforge.com/minecraft/mc-mods/oculus/files/5108615 ( iris )
+        https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/4680050 | 1.20.1-1.3.1
+        https://www.curseforge.com/minecraft/mc-mods/oculus/files/5108615 ( iris ) | 1.6.15a
 
     misc:
-        https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/5165369
-        https://www.curseforge.com/minecraft/mc-mods/jade/files/4986594
-        https://www.curseforge.com/minecraft/mc-mods/jade-addons/files/4925840
+        https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/5165369 | 2.3.5
+        https://www.curseforge.com/minecraft/mc-mods/jade/files/4986594 | 11.8.0
+        https://www.curseforge.com/minecraft/mc-mods/jade-addons/files/4925840 | 5.2.2
 
 server only:
     https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge/files/5109406
