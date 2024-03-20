@@ -40,6 +40,7 @@ client and server:
         https://legacy.curseforge.com/minecraft/mc-mods/vinery/files/5160855
         https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/5154529
         https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight/files/4994990
+        https://www.curseforge.com/minecraft/mc-mods/quark/files/5151658
 
 
     furniture mod:
@@ -96,3 +97,4 @@ client and server:
         https://www.curseforge.com/minecraft/mc-mods/yungs-api/files/5147001
         https://www.curseforge.com/minecraft/mc-mods/geckolib/files/5188427
         https://www.curseforge.com/minecraft/mc-mods/badpackets/files/4784395
+        https://www.curseforge.com/minecraft/mc-mods/integrated-api/files/5198124
