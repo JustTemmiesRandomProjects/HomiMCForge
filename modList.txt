@@ -2,9 +2,9 @@
 
 client only:
     performance:
-        https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5175042
-        https://www.curseforge.com/minecraft/mc-mods/rubidium-extra/files/5173928
-        https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options/files/5083995
+        https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5175042 | 0.3.9+mc1.20.1
+        https://www.curseforge.com/minecraft/mc-mods/rubidium-extra/files/5173928 | 0.5.4.2+mc1.20.1-build
+        https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options/files/5083995 
     
     QOL:
         https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/4581240
