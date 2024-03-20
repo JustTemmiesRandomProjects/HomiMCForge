@@ -1,0 +1,98 @@
+
+
+client only:
+    performance:
+        https://www.curseforge.com/minecraft/mc-mods/embeddium/files/5175042
+        https://www.curseforge.com/minecraft/mc-mods/rubidium-extra/files/5173928
+        https://www.curseforge.com/minecraft/mc-mods/textrues-embeddium-options/files/5083995
+    
+    QOL:
+        https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks/files/4581240
+        https://www.curseforge.com/minecraft/mc-mods/bobby-reforged/files/4650227
+        https://www.curseforge.com/minecraft/mc-mods/emi/files/5172928
+        https://www.curseforge.com/minecraft/mc-mods/emi-loot/files/4971064
+        https://www.curseforge.com/minecraft/mc-mods/emi-trades-villager-trading-emi-plugin/files/4901194
+        https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin/files/4901311
+
+    
+    silly QOL:
+        https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge/files/4715660
+
+    silly:
+        https://www.curseforge.com/minecraft/mc-mods/emoji-type/files/4959267
+    
+    swaggers:
+        https://www.curseforge.com/minecraft/mc-mods/sound-physics-remastered/files/4680050
+        https://www.curseforge.com/minecraft/mc-mods/oculus/files/5108615 ( iris )
+
+    misc:
+        https://www.curseforge.com/minecraft/mc-mods/craftpresence/files/5165369
+        https://www.curseforge.com/minecraft/mc-mods/jade/files/4986594
+        https://www.curseforge.com/minecraft/mc-mods/jade-addons/files/4925840
+
+server only:
+    https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge/files/5109406
+    https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/4979056
+    
+
+client and server:
+    minor content mods:
+        https://legacy.curseforge.com/minecraft/mc-mods/vinery/files/5160855
+        https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/5154529
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight/files/4994990
+
+
+    furniture mod:
+        https://www.curseforge.com/minecraft/mc-mods/every-compat/files/5194237
+        https://www.curseforge.com/minecraft/mc-mods/macaws-furniture/files/5043321
+        https://www.curseforge.com/minecraft/mc-mods/displaycase/files/4921336
+        https://www.curseforge.com/minecraft/mc-mods/oskars-kitchen-mod/files/5134729
+        https://www.curseforge.com/minecraft/mc-mods/even-better-amethyst/files/4808351
+        https://www.curseforge.com/minecraft/mc-mods/additional-lanterns/files/4677240
+
+
+    world generation:
+        https://www.curseforge.com/minecraft/mc-mods/the-outer-end/files/5183463
+        https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island/files/5193815
+        https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses/files/5193465
+        https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold/files/5178479
+
+
+    QOL:
+        https://www.curseforge.com/minecraft/mc-mods/corpse/files/5157034
+
+
+    misc:
+        https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files/4610474
+
+
+    create:
+        https://www.curseforge.com/minecraft/mc-mods/create/files/4835191
+        https://www.curseforge.com/minecraft/mc-mods/create-goggles/files/5063146
+        https://www.curseforge.com/minecraft/mc-mods/fishing-bobber-detector/files/4882228
+        https://www.curseforge.com/minecraft/mc-mods/createaddition/files/5070244
+        https://www.curseforge.com/minecraft/mc-mods/create-steam-n-rails/files/4836196
+        https://www.curseforge.com/minecraft/mc-mods/slice-and-dice/files/4763056
+        https://www.curseforge.com/minecraft/mc-mods/create-enchantment-industry/files/5131586
+        https://www.curseforge.com/minecraft/mc-mods/create-new-age/files/5080957
+        https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions/files/4703287       IT HAS A GRAPLING HOOK!!!!!
+        https://www.curseforge.com/minecraft/mc-mods/estrogen/files/5099445
+        https://www.curseforge.com/minecraft/mc-mods/create-sweets-and-treats/files/4974708
+        https://www.curseforge.com/minecraft/mc-mods/create-confectionery/files/4835793
+        https://www.curseforge.com/minecraft/mc-mods/rechiseled-create/files/5093226
+        https://www.curseforge.com/minecraft/mc-mods/create-deco/files/5050588
+
+
+    performance mods:
+        https://www.curseforge.com/minecraft/mc-mods/clumps/files/5025923
+
+
+    various fixes:
+        https://www.curseforge.com/minecraft/mc-mods/geckoanimfix/files/5018199
+
+
+    library mods:
+        https://www.curseforge.com/minecraft/mc-mods/do-api/files/4833133
+        https://www.curseforge.com/minecraft/mc-mods/yungs-api/files/5147001
+        https://www.curseforge.com/minecraft/mc-mods/geckolib/files/5188427
+        https://www.curseforge.com/minecraft/mc-mods/badpackets/files/4784395
