@@ -1,0 +1,48 @@
+{
+
+  "minecraft": {
+
+    "version": "1.20.1",
+
+    "modLoaders": [
+
+      {
+
+        "id": "forge-47.2.0",
+
+        "primary": true
+
+      }
+
+    ]
+
+  },
+
+  "manifestType": "minecraftModpack",
+
+  "manifestVersion": 1,
+
+  "name": "HomiMC Forge",
+
+  "version": "1.0.0",
+
+  "author": "TemmieTem",
+
+  "files": [
+
+    {
+
+      "projectID": 663658,
+
+      "fileID": 5167454,
+
+      "required": false
+
+    }
+
+  ],
+
+  "overrides": "overrides"
+
+}
+

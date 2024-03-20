@@ -1,0 +1,22 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"1": "block/dragon_egg_extra",
+		"particle": "block/dragon_egg"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 2],
+			"to": [15, 16, 14],
+			"faces": {
+				"north": {"uv": [1, 0, 15, 16], "texture": "#particle"},
+				"east": {"uv": [2, 0, 14, 16], "texture": "#particle"},
+				"south": {"uv": [1, 0, 15, 16], "texture": "#particle"},
+				"west": {"uv": [2, 0, 14, 16], "texture": "#particle"},
+				"up": {"uv": [0, 0, 14, 12], "texture": "#1", "cullface": "up"},
+				"down": {"uv": [0, 0, 14, 12], "texture": "#1", "cullface": "down"}
+			}
+		}
+	]
+}
