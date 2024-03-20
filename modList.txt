@@ -98,3 +98,4 @@ client and server:
         https://www.curseforge.com/minecraft/mc-mods/geckolib/files/5188427
         https://www.curseforge.com/minecraft/mc-mods/badpackets/files/4784395
         https://www.curseforge.com/minecraft/mc-mods/integrated-api/files/5198124
+        https://www.curseforge.com/minecraft/mc-mods/patchouli/files/4966125
