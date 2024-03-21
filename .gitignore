@@ -1,4 +1,5 @@
 .sync*
 .nextcloud*
 server/
-client/
+mods/
+servers.dat

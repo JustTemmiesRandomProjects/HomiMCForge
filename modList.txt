@@ -13,8 +13,10 @@ client only:
         https://www.curseforge.com/minecraft/mc-mods/emi-loot/files/4971064 | 0.6.5+1.20.1+forge
         https://www.curseforge.com/minecraft/mc-mods/emi-trades-villager-trading-emi-plugin/files/4901194 | 1.2.1+1.20.1+forge
         https://www.curseforge.com/minecraft/mc-mods/emiffect-status-effects-emi-plugin/files/4901311 | 1.1.2+1.20.1+forge
+        https://www.curseforge.com/minecraft/mc-mods/catalogue | 459701 | 1.8.0
+        https://www.curseforge.com/minecraft/mc-mods/immediatelyfast/files/5076080
 
-    
+
     silly QOL:
         https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge/files/4715660 | 3.0.1
 
@@ -30,41 +32,96 @@ client only:
         https://www.curseforge.com/minecraft/mc-mods/jade/files/4986594 | 11.8.0
         https://www.curseforge.com/minecraft/mc-mods/jade-addons/files/4925840 | 5.2.2
 
+
+
 server only:
     https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator-forge/files/5109406
     https://www.curseforge.com/minecraft/mc-mods/dynmapforge/files/4979056
+    https://www.curseforge.com/minecraft/mc-mods/im-sorry-but-the-elytra-is-in-another-end-city/files/4877739
+    https://www.curseforge.com/minecraft/mc-mods/mobtimizations/files/5135998
     
+
 
 client and server:
     minor content mods:
-        https://legacy.curseforge.com/minecraft/mc-mods/vinery/files/5160855
         https://www.curseforge.com/minecraft/mc-mods/supplementaries/files/5154529
+        https://www.curseforge.com/minecraft/mc-mods/amendments/files/5176182
+        https://www.curseforge.com/minecraft/mc-mods/lets-do-vinery/files/5160855
         https://www.curseforge.com/minecraft/mc-mods/lets-do-candlelight/files/4994990
         https://www.curseforge.com/minecraft/mc-mods/quark/files/5151658
+        https://www.curseforge.com/minecraft/mc-mods/fishy-business-more-fish/files/4817996  FUCKY!!!
+        https://www.curseforge.com/minecraft/mc-mods/fish-of-thieves/files/5058740           FUCKY!!!
+        https://www.curseforge.com/minecraft/mc-mods/better-fishing-rods/files/5025353
+        https://www.curseforge.com/minecraft/mc-mods/refined-storage/files/4844585
+        https://www.curseforge.com/minecraft/mc-mods/storage-drawers/files/5152196
+        https://www.curseforge.com/minecraft/mc-mods/botania/files/5002307
+        https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons/files/5122408
+        https://www.curseforge.com/minecraft/mc-mods/mahou-tsukai/files/5190727
+        https://www.curseforge.com/minecraft/mc-mods/goblin-traders/files/4802505
 
 
     furniture mod:
         https://www.curseforge.com/minecraft/mc-mods/every-compat/files/5194237
         https://www.curseforge.com/minecraft/mc-mods/macaws-furniture/files/5043321
-        https://www.curseforge.com/minecraft/mc-mods/displaycase/files/4921336
+        https://www.curseforge.com/minecraft/mc-mods/displaycase/files/4921336               FUCKY!!!
         https://www.curseforge.com/minecraft/mc-mods/oskars-kitchen-mod/files/5134729
         https://www.curseforge.com/minecraft/mc-mods/even-better-amethyst/files/4808351
         https://www.curseforge.com/minecraft/mc-mods/additional-lanterns/files/4677240
+        https://www.curseforge.com/minecraft/mc-mods/cooking-for-blockheads/files/5141447
+        https://www.curseforge.com/minecraft/mc-mods/farming-for-blockheads/files/4749360
+        https://www.curseforge.com/minecraft/mc-mods/chipped/files/5077656
+        https://www.curseforge.com/minecraft/mc-mods/immersive-paintings/files/4789114
+        https://www.curseforge.com/minecraft/mc-mods/macaws-bridges/files/4605466
+        https://www.curseforge.com/minecraft/mc-mods/macaws-bridges-biome-o-plenty/files/4663797/dependencies
+        https://www.curseforge.com/minecraft/mc-mods/mrcrayfish-furniture-mod/files/4602980
+        https://www.curseforge.com/minecraft/mc-mods/macaws-doors/files/4649910
 
 
     world generation:
-        https://www.curseforge.com/minecraft/mc-mods/the-outer-end/files/5183463
         https://www.curseforge.com/minecraft/mc-mods/yungs-better-end-island/files/5193815
         https://www.curseforge.com/minecraft/mc-mods/yungs-better-nether-fortresses/files/5193465
+        https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons/files/4769431
+        https://www.curseforge.com/minecraft/mc-mods/yungs-better-ocean-monuments/files/4883003
+        https://www.curseforge.com/minecraft/mc-mods/yungs-bridges/files/4769518
+        https://www.curseforge.com/minecraft/mc-mods/yungs-extras/files/4769514
+        https://www.curseforge.com/minecraft/mc-mods/the-outer-end/files/5183463
         https://www.curseforge.com/minecraft/mc-mods/integrated-stronghold/files/5178479
+        https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/files/4798432
+        https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/4764804
+        https://www.curseforge.com/minecraft/mc-mods/structory/files/4937872
+        https://www.curseforge.com/minecraft/mc-mods/structory-towers/files/4937875
+        https://www.curseforge.com/minecraft/mc-mods/moogs-voyager-structures/files/4837310
+        https://www.curseforge.com/minecraft/mc-mods/moogs-end-structures/files/4735068
+        https://www.curseforge.com/minecraft/mc-mods/mns-moogs-nether-structures/files/5066955
+        https://www.curseforge.com/minecraft/mc-mods/terralith/files/4938254
+        https://www.curseforge.com/minecraft/mc-mods/additional-structures/files/4765735
 
 
     QOL:
         https://www.curseforge.com/minecraft/mc-mods/corpse/files/5157034
+        https://www.curseforge.com/minecraft/mc-mods/appleskin/files/4770828
+        https://www.curseforge.com/minecraft/mc-mods/lootr/files/5173339
 
 
     misc:
         https://www.curseforge.com/minecraft/mc-mods/no-chat-reports/files/4610474
+        https://www.curseforge.com/minecraft/mc-mods/fancymenu/files/5153192
+        https://www.curseforge.com/minecraft/mc-mods/fancymenu-video/files/4801227
+        https://www.curseforge.com/minecraft/mc-mods/immersive-melodies/files/4760710
+        
+
+
+    Makinism:
+        https://www.curseforge.com/minecraft/mc-mods/mekanism/files/5125665
+        https://www.curseforge.com/minecraft/mc-mods/mekanism-tools/files/5125669
+        https://www.curseforge.com/minecraft/mc-mods/mekanism-generators/files/5125668
+
+
+    Thermals!:
+        https://www.curseforge.com/minecraft/mc-mods/thermal-foundation/files/4979840
+        https://www.curseforge.com/minecraft/mc-mods/thermal-expansion/files/4970700
+        https://www.curseforge.com/minecraft/mc-mods/thermal-integration/files/4970705
+        https://www.curseforge.com/minecraft/mc-mods/thermal-dynamics/files/4970699
 
 
     create:
@@ -78,10 +135,11 @@ client and server:
         https://www.curseforge.com/minecraft/mc-mods/create-new-age/files/5080957
         https://www.curseforge.com/minecraft/mc-mods/create-stuff-additions/files/4703287       IT HAS A GRAPLING HOOK!!!!!
         https://www.curseforge.com/minecraft/mc-mods/estrogen/files/5099445
-        https://www.curseforge.com/minecraft/mc-mods/create-sweets-and-treats/files/4974708
+        https://www.curseforge.com/minecraft/mc-mods/create-sweets-and-treats/files/4974708     FUCKY!!!!
         https://www.curseforge.com/minecraft/mc-mods/create-confectionery/files/4835793
         https://www.curseforge.com/minecraft/mc-mods/rechiseled-create/files/5093226
         https://www.curseforge.com/minecraft/mc-mods/create-deco/files/5050588
+        https://www.curseforge.com/minecraft/mc-mods/garnished/files/5186078
 
 
     performance mods:
@@ -99,3 +157,22 @@ client and server:
         https://www.curseforge.com/minecraft/mc-mods/badpackets/files/4784395
         https://www.curseforge.com/minecraft/mc-mods/integrated-api/files/5198124
         https://www.curseforge.com/minecraft/mc-mods/patchouli/files/4966125
+        https://www.curseforge.com/minecraft/mc-mods/cloth-config/files/4973441
+        https://www.curseforge.com/minecraft/mc-mods/configured/files/5180900
+        https://www.curseforge.com/minecraft/mc-mods/zeta/files/5151582
+        https://www.curseforge.com/minecraft/mc-mods/architectury-api/files/5137938
+        https://www.curseforge.com/minecraft/mc-mods/oskars-decorcraft/files/4754843
+        https://www.curseforge.com/minecraft/mc-mods/balm/files/5140912
+        https://www.curseforge.com/minecraft/mc-mods/resourceful-lib/files/5093329
+        https://www.curseforge.com/minecraft/mc-mods/athena/files/5176879
+        https://www.curseforge.com/minecraft/mc-mods/blueprint/files/5147442
+        https://www.curseforge.com/minecraft/mc-mods/konkrete/files/5028413
+        https://www.curseforge.com/minecraft/mc-mods/melody/files/5109692
+        https://www.curseforge.com/minecraft/mc-mods/watermedia/files/5127438
+        https://www.curseforge.com/minecraft/mc-mods/cofh-core/files/4970669
+        https://www.curseforge.com/minecraft/mc-mods/kotlin-for-forge/files/4983659
+        https://www.curseforge.com/minecraft/mc-mods/botarium/files/5118353
+        https://www.curseforge.com/minecraft/mc-mods/curios/files/5175956
+        https://www.curseforge.com/minecraft/mc-mods/ears/files/4452800
+        https://modrinth.com/mod/citadel/version/2.5.4
+        
